@@ -274,6 +274,17 @@ body{
     font-size: 65px;
 }
 
+.header-content .subfirstline{
+    z-index: 2;
+    font-weight:700;
+    font-family: poppins;
+    font-size: 65px;
+}
+
+.header-content .subfirstline .color{
+    color: #ffffff;
+ }
+
 .header-content .firstline .color{
    color: #bc3908;
 }
